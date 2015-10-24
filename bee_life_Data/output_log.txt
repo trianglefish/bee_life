@@ -1,41 +1,81 @@
 Initialize engine version: 4.6.9f1 (44099fd26189)
 GfxDevice: creating device client; threaded=1
 Direct3D:
-    Version:  Direct3D 9.0c [nvd3dumx.dll 9.18.13.5012]
-    Renderer: NVIDIA GeForce GTX 760
-    Vendor:   NVIDIA
-    VRAM:     1991 MB (via DXGI)
-    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+    Version:  Direct3D 9.0c [aticfx64.dll 8.17.10.1129]
+    Renderer: ATI Mobility Radeon HD 3400 Series
+    Vendor:   ATI
+    VRAM:     1146 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=0 RAWZ=0 NULL=0 RESZ=1 SlowINTZ=1
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\bee_life\bee_life_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\bee_life\bee_life_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\bee_life\bee_life_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
-Loading C:\bee_life\bee_life_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
-Platform assembly: C:\bee_life\bee_life_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\bee_life\bee_life_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\bee_life\bee_life_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
-Loading C:\bee_life\bee_life_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
-Platform assembly: C:\bee_life\bee_life_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
-Loading C:\bee_life\bee_life_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
-Platform assembly: C:\bee_life\bee_life_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\bee_life\bee_life_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\bee_life\bee_life_Data\Managed\Photon3Unity3D.dll (this message is harmless)
-Loading C:\bee_life\bee_life_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
-Platform assembly: C:\bee_life\bee_life_Data\Managed\PlayMaker.dll (this message is harmless)
-Loading C:\bee_life\bee_life_Data\Managed\PlayMaker.dll into Unity Child Domain
-- Completed reload, in  0.056 seconds
-desktop: 1680x1050 60Hz; virtual: 3280x1050 at 0,0
+Platform assembly: D:\bee_life\bee_life_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\bee_life\bee_life_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\bee_life\bee_life_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\bee_life\bee_life_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\bee_life\bee_life_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\bee_life\bee_life_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\bee_life\bee_life_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading D:\bee_life\bee_life_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: D:\bee_life\bee_life_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\bee_life\bee_life_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\bee_life\bee_life_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\bee_life\bee_life_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\bee_life\bee_life_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading D:\bee_life\bee_life_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+Platform assembly: D:\bee_life\bee_life_Data\Managed\PlayMaker.dll (this message is harmless)
+Loading D:\bee_life\bee_life_Data\Managed\PlayMaker.dll into Unity Child Domain
+- Completed reload, in  0.249 seconds
+desktop: 1600x900 59Hz; virtual: 1600x900 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
-Platform assembly: C:\bee_life\bee_life_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\bee_life\bee_life_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\bee_life\bee_life_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\bee_life\bee_life_Data\Managed\System.dll (this message is harmless)
 LoadLevel: ty
  
 (Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
 
-UnloadTime: 9.272496 ms
+UnloadTime: 6.707210 ms
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 899.
-Total: 1.574625 ms (FindLiveObjects: 0.051275 ms CreateObjectMapping: 0.043622 ms MarkObjects: 0.646686 ms  DeleteObjects: 0.076913 ms)
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 946.
+Total: 1.715081 ms (FindLiveObjects: 0.086071 ms CreateObjectMapping: 0.025821 ms MarkObjects: 0.698535 ms  DeleteObjects: 0.043941 ms)
+
+LoadLevel: menu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 1.091745 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 849.
+Total: 1.413379 ms (FindLiveObjects: 0.036240 ms CreateObjectMapping: 0.024009 ms MarkObjects: 0.549496 ms  DeleteObjects: 0.057984 ms)
+
+LoadLevel: ty
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 1.495373 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 946.
+Total: 3.706950 ms (FindLiveObjects: 0.136354 ms CreateObjectMapping: 0.063420 ms MarkObjects: 1.339539 ms  DeleteObjects: 0.059343 ms)
+
+LoadLevel: menu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 1.059581 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 849.
+Total: 1.418815 ms (FindLiveObjects: 0.034881 ms CreateObjectMapping: 0.036693 ms MarkObjects: 0.554026 ms  DeleteObjects: 0.060249 ms)
+
+LoadLevel: ty
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.672714 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 946.
+Total: 1.397071 ms (FindLiveObjects: 0.043035 ms CreateObjectMapping: 0.026727 ms MarkObjects: 0.532735 ms  DeleteObjects: 0.023556 ms)
 
