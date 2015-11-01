@@ -1,0 +1,30 @@
+Initialize engine version: 4.6.9f1 (44099fd26189)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: ATI Mobility Radeon HD 3400 Series (ID=0x95c4)
+    Vendor:   ATI
+    VRAM:     250 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\bee_life\test\2d_platformer_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\bee_life\test\2d_platformer_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\bee_life\test\2d_platformer_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\bee_life\test\2d_platformer_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\bee_life\test\2d_platformer_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\bee_life\test\2d_platformer_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\bee_life\test\2d_platformer_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading D:\bee_life\test\2d_platformer_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: D:\bee_life\test\2d_platformer_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\bee_life\test\2d_platformer_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\bee_life\test\2d_platformer_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\bee_life\test\2d_platformer_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\bee_life\test\2d_platformer_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading D:\bee_life\test\2d_platformer_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+Platform assembly: D:\bee_life\test\2d_platformer_Data\Managed\PlayMaker.dll (this message is harmless)
+Loading D:\bee_life\test\2d_platformer_Data\Managed\PlayMaker.dll into Unity Child Domain
+- Completed reload, in  0.605 seconds
+desktop: 1600x900 59Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: D:\bee_life\test\2d_platformer_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\bee_life\test\2d_platformer_Data\Managed\System.dll (this message is harmless)
